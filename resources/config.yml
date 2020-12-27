@@ -1,0 +1,34 @@
+points:
+  restriction: false
+  restriction-per: 10
+xp:
+  price: 1
+  add-total-to-price: true
+  add-total-to-price-multiplier: 1
+skills:
+  permissions-use: false
+  strength:
+    increment: 8
+    max-level: 8
+  criticals:
+    increment: 5
+    max-level: 10
+  resistance:
+    increment: 8
+    max-level: 8
+  archery:
+    increment: 5
+    max-level: 10
+  health:
+    increment: 2
+    max-level: 6
+admin-notification: true
+worlds:
+  restricted: false
+  allowed-worlds:
+  - world
+  - second_world
+  - third_world
+  - howmanyworldscanyouhave
+  - TOOMANYWORLDS
+  - meow

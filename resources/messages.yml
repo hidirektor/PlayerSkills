@@ -1,0 +1,24 @@
+prefix: "§f[§c*§f]"
+invalied_args: "Pls, use corect arguments"
+no_permissions_message: "§cYou don't have permissions for this"
+deny_message: "§cPlayerSkills cannot be used here."
+skill_upgrade: "You successful upgrade §e{0} §fskill"
+skill_upgrade_false: "You don't have enough skillpoints to upgrade"
+skill_reset: "You reset §e{0} §fskill"
+skill_full_reset: "You have reset all skills"
+player_no_found: "§cThat player has never played before."
+is_no_number: "§e%num§f is not a number."
+successful_add_points: "§fSuccessfully added §e%points §fSkill Points to §e%player"
+successful_set_skill_lvl: "§fSuccessfully set §e%player §flevels to §e%level §ffor
+  §e%skill"
+valid_skill: '§fThat is not a valid skill. Skills should be typed in lower-case. Skills:
+  §cstrength§f, §ccriticals§f, §cresistance§f, §carchery§f, §chealth'
+max_lvl_skill: "The maximum level for skill %skill is %max_skill_lvl"
+min_lvl_skill: "The minimum for all skills is 0"
+points_limit: "You can't buy more skill points, because limit is §e{0}"
+config_reload: "You successful reload config: §e{0}"
+skill_help:
+- "§7>> §ePlayerSkills Admin Help"
+- "§e/skillsadmin givepoints §c<player> <amount> §f- give players skill points"
+- "§e/skillsadmin setlevel §c<player> <skill> <amount> §f- set players skill level"
+- "§e/skillsadmin reload §c<config, data, messages, gui> §f- reload config"
